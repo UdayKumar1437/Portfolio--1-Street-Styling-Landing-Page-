@@ -18,3 +18,4 @@ A simple street style landing page created using `HTML` and `CSS`. This Project 
 - How to create a navigation bar.
 - How to margins and Padding.
 
+[Live Link](https://street-style-landing1.netlify.app/ "Livenow") Of this project
